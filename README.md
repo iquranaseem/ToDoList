@@ -1,3 +1,3 @@
 # ToDoList
 
-A to-do list using python
+A program used to make a to do list

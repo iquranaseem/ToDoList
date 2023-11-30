@@ -11,7 +11,6 @@ class TodoApp:
         self.priority_var = tk.StringVar(value="Medium")
         self.root.configure(bg="#00008B")  # Set background color to blue
 
-
         self.task_entry = tk.Entry(root, textvariable=self.task_var, width=30)
         self.task_entry.grid(row=0, column=0, padx=10, pady=10)
 
